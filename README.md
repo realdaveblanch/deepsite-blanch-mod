@@ -17,3 +17,10 @@ DeepSite is a coding platform powered by DeepSeek AI, designed to make coding sm
 
 ## How to use it locally
 Follow [this discussion](https://huggingface.co/spaces/enzostvs/deepsite/discussions/74)
+
+This is a modified version that allows you to run it with ollama.
+Just clone:
+ npm install
+ node server.js
+
+ and make sure that ollama is running 
